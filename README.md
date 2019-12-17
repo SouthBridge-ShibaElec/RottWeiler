@@ -11,7 +11,7 @@
 本体横のカバーが開くため、50枚をまとめて装填できます。
 ![100JPYモデル蓋開け画像](http://raw.github.com/wiki/SouthBridge-ShibaElec/RottWeiler/100JPYopenedView.jpg)
 ## RottWeiler500JPY50pcs
-日本円100円硬貨を50枚格納し、繰り出しで取り出しできるコインシリンダーです。
+日本円500円硬貨を50枚格納し、繰り出しで取り出しできるコインシリンダーです。
 ![500JPYモデル蓋閉じ画像](http://raw.github.com/wiki/SouthBridge-ShibaElec/RottWeiler/500JPYclosedView.jpg)
 本体横のカバーが開くため、50枚をまとめて装填できます。
 ![500JPYモデル蓋閉じ画像](http://raw.github.com/wiki/SouthBridge-ShibaElec/RottWeiler/500JPYopenedView.jpg)
