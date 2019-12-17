@@ -1,6 +1,6 @@
 # RottWeiler100JPY50cps
 日本円100円硬貨を50枚格納し、繰り出しで取り出しできるコインシリンダーです。
-
+![100JPYモデル蓋閉じ画像](http://raw.github.com/wiki/SouthBridge-ShibaElec/RottWeiler/100JPYclosedView.jpg)
 公開している設計データは以下のとおりです。
 * RottWeiler100JPY50pcs.FCStd
   * ３DCAD「FreeCAD」にて作成した、各パーツの構造と組立状態を定義したモデルデータです。嵌合位置の確認や、各部品の構造データの再出力、構造の変更に使えるマスターデータです。
